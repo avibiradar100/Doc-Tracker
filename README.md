@@ -3,7 +3,7 @@ Web portal which keep track of all documents submitted in College Office
 One can get realtime status of submitted documents.
 
 
-My Contribution for the Project till now
+My Contribution for this Project 
 ![Screenshot (109)](https://user-images.githubusercontent.com/85022831/177350444-570ff7a8-078c-4660-89ea-2c598f405eec.png)
 ![Screenshot (110)](https://user-images.githubusercontent.com/85022831/177350450-fbe20d2e-d7c1-40f4-8e88-f078599f532b.png)
 ![Screenshot (111)](https://user-images.githubusercontent.com/85022831/177350456-f972dd5c-c63d-4dcd-a4e1-10fb99f92429.png)
